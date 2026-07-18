@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :84: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :85: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="1">personal</H3>
 <DL><p>
@@ -114,5 +114,6 @@
   </DL><p>
 </DL><p>
 <DT><A HREF="https://seedloaf.com/dashboard" TAGS="" ID="84">Seedloaf</A>
+<DT><A HREF="https://doc.rust-lang.ru/book/" TAGS="" ID="85">Язык программирования Rust - Язык программирования Rust</A>
 </DL><p>
 </html>
