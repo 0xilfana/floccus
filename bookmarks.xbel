@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :123: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :124: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="4">dev</H3>
 <DL><p>
@@ -34,5 +34,6 @@
 <DT><A HREF="https://pygobject.gnome.org/tutorials/gtk4/application.html" TAGS="" ID="121">Application — PyGObject</A>
 <DT><A HREF="https://www.youtube.com/watch?v=4lQDepOPeiE&#38;list=RD4lQDepOPeiE&#38;start_radio=1" TAGS="" ID="122">Gendalf lofi</A>
 <DT><A HREF="https://www.youtube.com/watch?v=s-JbtVL0nGc&#38;list=PLPSwJeFVTekjhDqhML0iEXY7EzJMNK80R" TAGS="" ID="123">Mindustry Guide</A>
+<DT><A HREF="https://docs.invidious.io/api/#get-apiv1trending" TAGS="" ID="124">API - Invidious Documentation</A>
 </DL><p>
 </html>
