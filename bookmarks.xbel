@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :147: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :149: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="4">dev</H3>
 <DL><p>
@@ -27,6 +27,8 @@
 </DL><p>
 <DT><H3 ID="147">booru</H3>
 <DL><p>
+  <DT><A HREF="http://rule34.xxx/" TAGS="" ID="148">rule34</A>
+  <DT><A HREF="http://safebooru.org/" TAGS="" ID="149">safebooru</A>
 </DL><p>
 <DT><A HREF="http://localhost:8384/" TAGS="" ID="72">Syncthing</A>
 <DT><A HREF="https://translate.google.com/?sl=en&#38;tl=ru&#38;op=translate" TAGS="" ID="73">Google Translate</A>
